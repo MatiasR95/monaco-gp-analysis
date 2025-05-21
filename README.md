@@ -10,7 +10,7 @@ Strategy: Guide Colapinto’s qualifying target (Q3 for high points probability)
 
 Data Source
 
-Ergast F1 Database: Includes races, results, qualifying, drivers, constructors tables.
+F1 Database: Includes races, results, qualifying, drivers, constructors tables. (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) 
 Scope: 70 Monaco races (circuitId = 6), qualifying data from 2003–2024.
 
 Repository Structure
