@@ -17,8 +17,6 @@ monaco-gp-analysis/
 │   ├── historical_analysis/      # Full-race trends (wins, DNFs, constructors)
 │   ├── qualifying_insights/      # 2003–2024 analysis (poles, consistency)
 │   ├── recent_performance/       # 2019, 2021–2024 (Q3 vs points, DNF risk)
-│   └── argentinian_context/      # Performance of Argentine drivers
-├── results/                      # CSV outputs
 ├── docs/                         # Final Canva report
 └── README.md
 ```
