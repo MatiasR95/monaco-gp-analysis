@@ -16,21 +16,6 @@ This project blends **SQL querying, historical research, and storytelling throug
 
 ---
 
-## 🗃️ Repository Structure
-
-monaco-gp-analysis/
-│
-├── queries/
-│ ├── historical_analysis/ # Insights from all Monaco races (1950–2024)
-│ ├── qualifying_insights/ # Pole data, constructor trends (2003–2024)
-│ ├── recent_performance/ # Focused analysis (2019, 2021–2024)
-│
-├── docs/
-│ └── MonacoGP_Report.pdf # Final visual summary (Canva report)
-
-
----
-
 ## 🧰 Tools & Data
 
 - **SQL Server (SSMS)** – Main analysis environment.
