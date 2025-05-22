@@ -2,7 +2,7 @@
 
 Welcome to the Monaco GP analysis project — a data-driven exploration of one of Formula 1’s most iconic circuits, crafted to support **Franco Colapinto’s 2025 debut** with strategic insights grounded in history, performance trends, and qualifying probabilities.
 
-This project blends **SQL querying, historical research, and storytelling through data**, with a final report built in Canva and over 20 structured queries into the **Ergast F1 dataset**.
+This project blends **SQL querying, historical research, and storytelling through data**, with a final report built in Canva and over 20 structured queries into the **F1 dataset** from 1950 to 2024.
 
 ---
 
